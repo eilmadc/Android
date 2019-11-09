@@ -1,0 +1,4 @@
+#Sat Nov 09 16:06:29 CET 2019
+base.0=C\:\\Users\\Elena\\Documents\\GitHub\\Android\\EAC3_P1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

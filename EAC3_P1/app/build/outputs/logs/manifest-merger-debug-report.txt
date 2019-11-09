@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\17b634b537052f3463117d9cd2d0ff68\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\de96e17627238d04e73f8192c02fc7fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\885145ce687397bda0a85fa95ba203b6\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bcf199d54e9a431b774a766a94f04887\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\bab55d16360e876cd37ada378e1d7c22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\b556f21c5ebbdd0fed3dc4d4eb0bf974\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\992397472bb43167748470dba7cb5032\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c6704029a7912f0e415c589cf690f21d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9abf2c0c996c0ae93b7a323c6c275146\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5ee30d7e3deb6c7858fac176ddfb2592\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a07f7f8429bef50ee292133c81469902\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ad1618cee0418fd19403d5baf2075f8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\12bca26066639ee6e20b9a0acfa29dba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4c07e3dd26e69256e7a35f0896ffc959\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\98df98b04c07e15440f6cda1cc931ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a32edc67ae725d007da02285a3860706\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fe483298fef85b67cfefe193d798e704\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0dc419436e0f74fb6ec65d53bfa6b6bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b46841e6d65fd0c48e22f70bf01b7a76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\0c471915b93a5255e83e8956f2e8e46b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\9f83b1226c63fa7e1223f6985ed0a212\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\29d23bf438694b14b7d45dbd955d78a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3600fd781a6744de96109b0bea1f30a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\4a33c6b7dc4717d13c51d2fb233f38db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c4f25c21e42f68fde3285401122bec65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d2de3dc24a3eb4ec3b6873f9b3a22648\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d9b5a738cb3cec2b71dcc8baa08a5836\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d5dbc97b317f6d0f917ea567ffbe8eb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7c2c698bff603e478d41388eb15abab8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d978841356242d84d249b6f0bb9f9e99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\87cfd2672221d901fea815f6b4723507\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\74bbd561c2d9ef80b1c7ee8007c2f497\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\76e3faf64ab362d1f9fc918385a97bd9\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\17b634b537052f3463117d9cd2d0ff68\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\17b634b537052f3463117d9cd2d0ff68\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\885145ce687397bda0a85fa95ba203b6\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\885145ce687397bda0a85fa95ba203b6\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\9f83b1226c63fa7e1223f6985ed0a212\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\9f83b1226c63fa7e1223f6985ed0a212\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\76e3faf64ab362d1f9fc918385a97bd9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\76e3faf64ab362d1f9fc918385a97bd9\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.EAC3_1_P1.MainActivity
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:13:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.EAC3_1_P1.BookDetailActivity
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:parentActivityName
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:25:13-84
+	android:label
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:24:13-54
+	android:theme
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:23:13-76
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:27:13-29:78
+	android:value
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\17b634b537052f3463117d9cd2d0ff68\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\17b634b537052f3463117d9cd2d0ff68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\de96e17627238d04e73f8192c02fc7fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\de96e17627238d04e73f8192c02fc7fe\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\885145ce687397bda0a85fa95ba203b6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\885145ce687397bda0a85fa95ba203b6\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bcf199d54e9a431b774a766a94f04887\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bcf199d54e9a431b774a766a94f04887\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\bab55d16360e876cd37ada378e1d7c22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\bab55d16360e876cd37ada378e1d7c22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\b556f21c5ebbdd0fed3dc4d4eb0bf974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\b556f21c5ebbdd0fed3dc4d4eb0bf974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\992397472bb43167748470dba7cb5032\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\992397472bb43167748470dba7cb5032\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c6704029a7912f0e415c589cf690f21d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\c6704029a7912f0e415c589cf690f21d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9abf2c0c996c0ae93b7a323c6c275146\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\9abf2c0c996c0ae93b7a323c6c275146\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5ee30d7e3deb6c7858fac176ddfb2592\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5ee30d7e3deb6c7858fac176ddfb2592\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a07f7f8429bef50ee292133c81469902\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a07f7f8429bef50ee292133c81469902\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ad1618cee0418fd19403d5baf2075f8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ad1618cee0418fd19403d5baf2075f8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\12bca26066639ee6e20b9a0acfa29dba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\12bca26066639ee6e20b9a0acfa29dba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4c07e3dd26e69256e7a35f0896ffc959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4c07e3dd26e69256e7a35f0896ffc959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\98df98b04c07e15440f6cda1cc931ad9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\98df98b04c07e15440f6cda1cc931ad9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a32edc67ae725d007da02285a3860706\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a32edc67ae725d007da02285a3860706\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fe483298fef85b67cfefe193d798e704\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\fe483298fef85b67cfefe193d798e704\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0dc419436e0f74fb6ec65d53bfa6b6bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\0dc419436e0f74fb6ec65d53bfa6b6bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b46841e6d65fd0c48e22f70bf01b7a76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\b46841e6d65fd0c48e22f70bf01b7a76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\0c471915b93a5255e83e8956f2e8e46b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\0c471915b93a5255e83e8956f2e8e46b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\d816112897e89a892e5559dffe034ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\9f83b1226c63fa7e1223f6985ed0a212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\9f83b1226c63fa7e1223f6985ed0a212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\29d23bf438694b14b7d45dbd955d78a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\29d23bf438694b14b7d45dbd955d78a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3600fd781a6744de96109b0bea1f30a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\3600fd781a6744de96109b0bea1f30a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\4a33c6b7dc4717d13c51d2fb233f38db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\4a33c6b7dc4717d13c51d2fb233f38db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c4f25c21e42f68fde3285401122bec65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c4f25c21e42f68fde3285401122bec65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d2de3dc24a3eb4ec3b6873f9b3a22648\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d2de3dc24a3eb4ec3b6873f9b3a22648\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d9b5a738cb3cec2b71dcc8baa08a5836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d9b5a738cb3cec2b71dcc8baa08a5836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d5dbc97b317f6d0f917ea567ffbe8eb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d5dbc97b317f6d0f917ea567ffbe8eb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7c2c698bff603e478d41388eb15abab8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7c2c698bff603e478d41388eb15abab8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d978841356242d84d249b6f0bb9f9e99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d978841356242d84d249b6f0bb9f9e99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\87cfd2672221d901fea815f6b4723507\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\87cfd2672221d901fea815f6b4723507\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\74bbd561c2d9ef80b1c7ee8007c2f497\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\74bbd561c2d9ef80b1c7ee8007c2f497\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\76e3faf64ab362d1f9fc918385a97bd9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Elena\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\76e3faf64ab362d1f9fc918385a97bd9\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Elena\Documents\GitHub\Android\EAC3_P1\app\src\main\AndroidManifest.xml
