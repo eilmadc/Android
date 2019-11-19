@@ -36,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="253" />
     <option name="width" value="1393" />
     <option name="height" value="1087" />
@@ -132,6 +132,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.2.0" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1573311947757" />
   </component>
   <component name="RunDashboard">
