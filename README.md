@@ -1,4 +1,5 @@
 # Android
-Android Projects maked in IOC (Institut Obert Catalunya)
+Android Projects maked in Java
+IOC (Institut Obert Catalunya)
 
 
